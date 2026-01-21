@@ -5,7 +5,7 @@ This repository contains a simple bioinformatics workflow to compare
 miRNA expression between two biological groups using the Wilcoxon rank-sum test.
 
 ## Data
-- - miRNA expression values (numeric)
+- miRNA expression values (numeric)
 - Two independent groups (Control vs Tumor)
 
 ## Methods
